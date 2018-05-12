@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6812
     wikipedia: http://en.wikipedia.org/wiki/Charles_Alden_Seltzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27051#The-Trail-to-Yesterday
 gutenberg_issued: '2008-10-26'
 gutenberg_type: Text
 identifiers:
